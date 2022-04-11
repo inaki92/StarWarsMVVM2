@@ -1,0 +1,16 @@
+com/inaki/starwarsmvvmapp/databinding/ActivityMainBinding.java
+ com.inaki.starwarsmvvmapp.databinding.ActivityMainBinding
+com/inaki/starwarsmvvmapp/BuildConfig.java
+ com.inaki.starwarsmvvmapp.BuildConfig
+com/inaki/starwarsmvvmapp/di/NetworkModule_ProvidesNetworkApiFactory.java
+ com.inaki.starwarsmvvmapp.di.NetworkModule_ProvidesNetworkApiFactory
+com/inaki/starwarsmvvmapp/di/AppModule_ProvidesContextFactory.java
+ com.inaki.starwarsmvvmapp.di.AppModule_ProvidesContextFactory
+com/inaki/starwarsmvvmapp/di/NetworkModule_ProvidesOkHttpClientFactory.java
+ com.inaki.starwarsmvvmapp.di.NetworkModule_ProvidesOkHttpClientFactory
+com/inaki/starwarsmvvmapp/di/NetworkModule_ProvidesLoggingInterceptorFactory.java
+ com.inaki.starwarsmvvmapp.di.NetworkModule_ProvidesLoggingInterceptorFactory
+com/inaki/starwarsmvvmapp/di/DaggerStarWarsComponent.java
+ com.inaki.starwarsmvvmapp.di.DaggerStarWarsComponent
+ com.inaki.starwarsmvvmapp.di.DaggerStarWarsComponent$1
+ com.inaki.starwarsmvvmapp.di.DaggerStarWarsComponent$Builder
